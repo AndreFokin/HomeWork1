@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Новый запрос">
+		<text>ВЫБРАТЬ
+	ДАТАВРЕМЯ(1981, 12, 4) КАК ДатаРождения
+</text>
+	</query>
+</querylist>
